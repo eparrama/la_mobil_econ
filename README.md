@@ -1,5 +1,6 @@
 # LATAM Mobility Economy Project  
 **Objetivo** Evaluar cómo la movilidad urbana se relaciona con la productividad económica en las principales ciudades latinoamericanas.  Para ello utilizamos datos reales de TomTom Traffic Index y OECD Cities, que vamos a limpiar, combinar y analizar para identificar en qué ciudades conviene invertir en infraestructura de transporte.  
+**Herramientas utilizadas:** Python & Pandas
 Dataframes: tomtom_traffic.csv y oecd_city_economy.csv  
 **Paso 1:** Cargar y explorar  
 **Paso 2:** Explorar, limpiar y preparar los datos  
